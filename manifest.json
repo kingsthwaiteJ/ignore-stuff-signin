@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Ignore Stuff Sign-In",
+    "description": "Cheeky",
+    "version": "0.1",
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "Favicon-Stuff-32x32.png"
+    },
+
+    "author": "James Kingsthwaite",
+    "version_name": "0.1",
+
+    "icons": {
+        "16": "/Favicon-Stuff-32x32.png",
+        "24": "/Favicon-Stuff-32x32.png",
+        "32": "/Favicon-Stuff-32x32.png",
+        "48": "/Favicon-Stuff-32x32.png",
+        "128": "/Favicon-Stuff-32x32.png"
+    },
+    "permissions": ["activeTab", "scripting"]
+  }

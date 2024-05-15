@@ -1,0 +1,19 @@
+{
+  "name": "ignore-stuff-signin",
+  "version": "1.0.0",
+  "description": "A basic Google Chrome extension that hides the Stuff sign-in prompt that blocks access to the Stuff Quizzes.",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsthwaiteJ/ignore-stuff-signin.git"
+  },
+  "author": "James Kingsthwaite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingsthwaiteJ/ignore-stuff-signin/issues"
+  },
+  "homepage": "https://github.com/kingsthwaiteJ/ignore-stuff-signin#readme"
+}
