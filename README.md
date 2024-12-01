@@ -44,7 +44,7 @@
 
 I love doing quizzes, puzzles and all-things problem-solving. I've really 
 enjoyed the Stuff Quizzes for a long time and will continue to do so. In
-a recent update to the stuff.co.nz website, access to the quizzes was blocked 
+a recent update to the [Stuff](https://stuff.co.nz) website, access to the quizzes was blocked 
 by a sign-in prompt, which I found to be a nuisance as a user without an
 account.
 
@@ -86,7 +86,7 @@ Follow these instructions to set up the extension set up on your machine.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-After this extension has been added to Google Chrome, there is no further set up required. Whenever you open a stuff.co.nz web-page with a sign-in prompt blocking the page content, click on the extension icon from your extensions bar and the sign-in prompt will disappear.
+After this extension has been added to Google Chrome, there is no further set up required. Whenever you open a [Stuff](https://stuff.co.nz) web-page with a sign-in prompt blocking the page content, click on the extension icon from your extensions bar and the sign-in prompt will disappear.
 
 <br/>
 <div align="center">
