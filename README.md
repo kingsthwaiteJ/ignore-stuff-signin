@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Chat Application</h3>
+  <h3 align="center">Ignore Stuff Sign-In Google Chrome Extension</h3>
 
   <p align="center">
     A basic Google Chrome Extension to hide the sign-in prompt that blocks page content when accessing Stuff Quizzes.
